@@ -43,7 +43,6 @@ This project analyzes employee attrition data to identify key factors contributi
 This project was completed as part of the **TCS Course Project** during the **2nd Year** of the  
 **Bachelor of Computer Applications (BCA) Undergraduate Program** at **Amity University Online**.  
 
-It focused on applying **business analytics techniques** and **optimization models** in a retail setting.
 
 ---
 
