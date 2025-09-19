@@ -6,7 +6,7 @@
 
 A comprehensive data analytics project focused on understanding employee attrition patterns and predicting workforce turnover using advanced Excel techniques including pivot tables, regression analysis, and interactive dashboards.
 
-![Dashboard Preview](assets/images/dashboard_banner.png)
+![Dashboard Preview](screenshots/Dashboard_overview.png)
 
 ## 🎯 Project Overview
 
