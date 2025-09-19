@@ -31,6 +31,22 @@ This project analyzes employee attrition data to identify key factors contributi
 - **Career Progression**: YearsAtCompany, YearsInCurrentRole, YearsSinceLastPromotion
 - **Performance**: PerformanceRating, JobInvolvement, WorkLifeBalance
 
+---
+
+## 🎓 Academic Context
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://i.ibb.co/qMTCC89r/tcs-log.png" width="100px" />
+  <img src="https://i.ibb.co/6zgXKY0/amity-logo.png" width="100px" />
+</div>
+
+This project was completed as part of the **TCS Course Project** during the **2nd Year** of the  
+**Bachelor of Computer Applications (BCA) Undergraduate Program** at **Amity University Online**.  
+
+It focused on applying **business analytics techniques** and **optimization models** in a retail setting.
+
+---
+
 ## 🛠️ Methodology & Tools
 
 ### Technology Stack
